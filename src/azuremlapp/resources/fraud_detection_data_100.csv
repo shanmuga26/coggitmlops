@@ -1,0 +1,101 @@
+transaction_id,amount,hour,merchant_category,location,label
+TXN1000,2363.71,1,Online,Los Angeles,0
+TXN1001,602.37,0,Online,Remote,0
+TXN1002,3567.66,15,Dining,Houston,0
+TXN1003,3805.12,11,Online,Los Angeles,0
+TXN1004,2808.58,4,Online,Houston,0
+TXN1005,3855.98,4,Online,Los Angeles,0
+TXN1006,2471.51,22,Retail,Los Angeles,0
+TXN1007,2616.05,8,Retail,Chicago,0
+TXN1008,2140.57,8,Retail,Los Angeles,0
+TXN1009,131.97,2,Dining,New York,0
+TXN1010,543.92,18,Gas,Remote,0
+TXN1011,161.99,15,Online,Remote,0
+TXN1012,3183.87,15,Online,Houston,0
+TXN1013,1575.21,2,Dining,Los Angeles,1
+TXN1014,2545.31,19,Online,New York,0
+TXN1015,4538.29,23,Retail,Houston,0
+TXN1016,1250.21,21,Gas,Chicago,0
+TXN1017,2054.86,23,Travel,Houston,0
+TXN1018,3778.98,0,Online,Houston,0
+TXN1019,1147.85,23,Retail,Los Angeles,0
+TXN1020,389.51,19,Travel,Chicago,0
+TXN1021,1452.31,10,Gas,Houston,0
+TXN1022,810.3,16,Travel,New York,0
+TXN1023,4648.84,7,Retail,New York,1
+TXN1024,4041.56,3,Travel,Remote,0
+TXN1025,3168.85,5,Dining,Chicago,0
+TXN1026,4357.95,7,Travel,Chicago,0
+TXN1027,4019.34,19,Online,Remote,1
+TXN1028,936.92,2,Online,Houston,0
+TXN1029,4463.33,15,Dining,Chicago,0
+TXN1030,2699.01,2,Retail,New York,1
+TXN1031,4038.16,17,Online,New York,1
+TXN1032,4480.98,13,Gas,Los Angeles,1
+TXN1033,1593.43,17,Online,Chicago,0
+TXN1034,554.71,1,Online,Houston,0
+TXN1035,1143.54,21,Retail,Remote,0
+TXN1036,2138.4,2,Travel,Remote,0
+TXN1037,4090.98,15,Online,Houston,0
+TXN1038,4304.35,8,Dining,Los Angeles,0
+TXN1039,39.73,3,Travel,Remote,1
+TXN1040,2556.18,0,Gas,Chicago,0
+TXN1041,2089.97,3,Retail,Los Angeles,0
+TXN1042,1114.43,0,Gas,Chicago,0
+TXN1043,603.73,13,Travel,New York,0
+TXN1044,1691.39,20,Travel,Los Angeles,0
+TXN1045,4714.83,15,Travel,Remote,0
+TXN1046,1619.4,19,Gas,Los Angeles,0
+TXN1047,2596.36,23,Travel,Los Angeles,0
+TXN1048,3516.58,7,Gas,Los Angeles,0
+TXN1049,1821.33,6,Travel,Los Angeles,0
+TXN1050,4859.05,2,Dining,Chicago,1
+TXN1051,4812.42,16,Travel,New York,0
+TXN1052,1262.65,0,Gas,Houston,0
+TXN1053,2488.76,15,Online,Los Angeles,1
+TXN1054,1507.89,11,Travel,Remote,0
+TXN1055,1427.78,18,Online,Los Angeles,1
+TXN1056,189.25,21,Dining,Remote,0
+TXN1057,3049.77,22,Retail,Chicago,1
+TXN1058,2515.88,21,Dining,Remote,0
+TXN1059,262.14,13,Travel,Houston,1
+TXN1060,1396.84,5,Online,New York,0
+TXN1061,4541.79,5,Online,Remote,1
+TXN1062,1201.61,12,Gas,Remote,0
+TXN1063,728.75,18,Online,New York,0
+TXN1064,2449.82,21,Gas,Houston,1
+TXN1065,4928.32,7,Retail,Los Angeles,0
+TXN1066,1214.07,1,Travel,Remote,0
+TXN1067,3362.32,20,Gas,New York,0
+TXN1068,3809.29,0,Retail,Chicago,0
+TXN1069,1192.0,14,Online,New York,0
+TXN1070,3642.44,0,Online,Chicago,0
+TXN1071,1842.08,4,Retail,Houston,1
+TXN1072,3163.37,15,Online,Los Angeles,0
+TXN1073,3169.48,18,Retail,New York,0
+TXN1074,2681.19,3,Gas,Remote,1
+TXN1075,456.0,2,Gas,Houston,1
+TXN1076,4177.34,16,Retail,New York,0
+TXN1077,1607.3,16,Gas,Remote,0
+TXN1078,936.66,11,Gas,New York,0
+TXN1079,208.67,13,Gas,Chicago,0
+TXN1080,2956.51,20,Dining,New York,0
+TXN1081,3389.43,5,Travel,New York,0
+TXN1082,87.86,2,Online,New York,0
+TXN1083,2562.9,8,Dining,Houston,0
+TXN1084,1136.35,4,Gas,New York,1
+TXN1085,3227.64,23,Retail,Remote,1
+TXN1086,875.96,16,Gas,Chicago,0
+TXN1087,3456.23,13,Travel,Chicago,0
+TXN1088,1936.74,20,Gas,New York,0
+TXN1089,4683.97,2,Retail,Houston,1
+TXN1090,691.92,0,Travel,Houston,0
+TXN1091,1708.63,19,Gas,Remote,0
+TXN1092,571.8,20,Travel,New York,1
+TXN1093,4623.84,22,Online,Chicago,1
+TXN1094,4387.31,0,Online,Houston,1
+TXN1095,1293.42,2,Gas,New York,0
+TXN1096,3301.62,17,Travel,Houston,0
+TXN1097,4087.02,9,Retail,Houston,0
+TXN1098,2778.23,21,Gas,Chicago,1
+TXN1099,2650.6,2,Online,Los Angeles,1
